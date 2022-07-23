@@ -1,0 +1,10 @@
+#body{
+    display: block;
+}
+#navbar{
+    width: 20%;
+    background-color: gray;
+    float: left;
+    height: 100%;
+    background-color: white;
+}
